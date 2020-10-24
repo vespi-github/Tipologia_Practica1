@@ -11,7 +11,7 @@ el dataset.
 * De los productos que sí son teléfonos pueden ocurrir varias cosas:  
   * Descripción por defecto de amazon: no hay problemas la extracción se realiza correctamente.
   * Descripción por defecto pero no introdujo datos, o los introdujo erróneamente: estamos con las manos atadas.
-  * La descripción consiste en una imagen que se corresponde con un folleto informativo: no podemos hacer nada ahí.
+  * La descripción consiste en una imagen que se corresponde con un folleto informativo: creemos que estas son las que más "daño" nos hacen ya que suelen ser de empresas grandes y consolidadas que aportan información de mucha calidad y cuyos dispositivos tienen un gran peso en el mercado.
   * Descripción personalizada: el vendedor ha embebido el código html sin ningún tipo de estándar, datos totalmente desestructurados,
   en distintos idiomas y muchas veces con errores. Muy difícil proceder si no imposible.
   
