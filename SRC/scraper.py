@@ -330,7 +330,7 @@ def obtener_información_telefonos_paralelo():
 
 cargar_proxies()
 
-"""
+
 # obtenemos los links de las descripciones de cada teléfono
 start_time = time.time()
 obtener_links_paralelo()
@@ -338,7 +338,7 @@ end_time = time.time()
 
 print("Tiempo total en horas =", (end_time - start_time)/3600 )
 
-"""
+
 
 
 
