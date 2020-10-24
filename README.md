@@ -44,3 +44,6 @@ Los datos contenidos en el fichero final corresponden a las siguientes caracter�
 * Imagen: ruta de la imagen del teléfono en la carpeta pictures.
 
 Las imágenes puede descargarlas del siguiente enlace a drive: https://drive.google.com/file/d/1iE7v3rj8q12q35C2RX9lvo-7iHd_-xMa/view?usp=sharing
+
+La carpeta SRC contiene todos los ficheros necesarios para la ejecución: scraper.py, proxies_list.csv y las carpetas temp y Pictures.  
+La carpeta Data contiene el csv del dataset.
