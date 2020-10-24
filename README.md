@@ -42,3 +42,5 @@ Los datos contenidos en el fichero final corresponden a las siguientes caracter�
 * Valoraciones: número total de valoraciones de cliente que ha recibido el teléfono. 
 * Precio: precio actual del teléfono.
 * Imagen: ruta de la imagen del teléfono en la carpeta pictures.
+
+Las imágenes puedes descargarlas del siguiente enlace a drive: https://drive.google.com/file/d/1iE7v3rj8q12q35C2RX9lvo-7iHd_-xMa/view?usp=sharing
