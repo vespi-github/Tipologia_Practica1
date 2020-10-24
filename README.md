@@ -1,0 +1,1 @@
+# Tipologia_Practica1
