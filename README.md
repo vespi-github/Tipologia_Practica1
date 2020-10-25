@@ -1,5 +1,5 @@
 # Amazon Smartphones Scraper
-Este scraper extrae información de todos los smartphones en venta en amazon.es actualmente.  Ha sido realizado por Diego Martín Montoro y XXXX.
+Este scraper extrae información de todos los smartphones en venta en amazon.es actualmente.  Ha sido realizado por Diego Martín Montoro y Javier Hernández Hernández.
 
 Para la ejecución del scraper es necesario instalar los siguientes paquetes:  
 
